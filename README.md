@@ -27,12 +27,13 @@ pip install opencv-python numpy
 
 Clone the repository:
 
-git clone https://github.com/montancesmark/color-tracking.git
+git clone https://github.com/montancesmark/color_tracking.git
 
 cd color-tracking
 
 
 Run the color tracking script:
+
 python color_tracking.py
 
 Ensure your camera is connected and accessible. 
